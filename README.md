@@ -1,20 +1,14 @@
-# 🛍️ React E-Commerce Website 
+# 🛍️ QuickPick — React E-Commerce Website (Frontend Only)
 
-This is a fully functional **frontend-only e-commerce website** built using **React** and **React Router DOM**. The app includes modern UI features such as product listing by category, add-to-cart functionality, and real-time product search.
-
-
----
+**QuickPick** is a sleek and modern **frontend-only e-commerce website** built using **React** and **React Router DOM**. It offers a smooth user experience with core shopping features like browsing by category, adding products to a cart, and searching for items.
 
 ## ✨ Features
 
-- 🔄 **React Router DOM** for seamless navigation
-- 📦 **Shop by Category** to explore products easily
-- 🛒 **Add to Cart** functionality with live updates
-- 🔍 **Search Bar** to filter products in real-time
-- 💻 Fully responsive UI with modern design
-
----
-
+- 🔄 **React Router DOM** for seamless page navigation
+- 🧩 **Shop by Category** to explore a variety of product types
+- 🛒 **Add to Cart** feature with interactive cart updates
+- 🔍 **Real-time Search** to quickly find products
+- 🎨 Modern, responsive, and intuitive UI
 
 ---
 
